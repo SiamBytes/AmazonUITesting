@@ -1,3 +1,4 @@
+<img width="693" height="515" alt="emailable-report" src="https://github.com/user-attachments/assets/4810c265-694d-4652-9d02-0a278e54200f" />
 # 🧪 Amazon UI Testing Automation Framework  
 
 A complete **Selenium + Cucumber (BDD)** automation framework built using **Java** and **Maven** to test **Amazon’s Search Functionality**.  
@@ -98,3 +99,9 @@ selenium cucumber-bdd java maven testng qa automation amazon-ui pom
 ---
 
 Would you like me to **add badges** (like Java version, Selenium, Cucumber, and License) at the top of the README too — for a more *GitHub-pro look*?
+---
+## 🧪 Test Reports & Logs
+This project generates automated HTML reports for every test execution.
+
+![Sample Test Report](./test-output/emailable-report.html)
+
