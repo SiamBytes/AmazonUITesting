@@ -2,6 +2,8 @@
 Below is the TestNG HTML report generated after the latest execution:
 
 <img width="693" height="515" alt="emailable-report" src="https://github.com/user-attachments/assets/4810c265-694d-4652-9d02-0a278e54200f" />
+---
+
 # 🧪 Amazon UI Testing Automation Framework  
 
 A complete **Selenium + Cucumber (BDD)** automation framework built using **Java** and **Maven** to test **Amazon’s Search Functionality**.  
