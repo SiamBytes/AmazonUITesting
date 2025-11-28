@@ -16,7 +16,7 @@ This framework follows the **Page Object Model (POM)** design pattern for clean,
 ✅ Behavior-Driven Development (BDD) with **Cucumber**  
 ✅ Page Object Model (POM) for reusability  
 ✅ Integrated with **TestNG** and **Maven**  
-✅ Generates detailed **HTML Test Reports**  
+✅ Generates detailed **HTML Test Reports**   
 ✅ Cross-browser compatibility (Chrome, Edge, Firefox)  
 ✅ Easy configuration and modular design  
 
