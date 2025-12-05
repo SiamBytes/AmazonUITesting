@@ -10,7 +10,7 @@ A complete **Selenium + Cucumber (BDD)** automation framework built using **Java
 This framework follows the **Page Object Model (POM)** design pattern for clean, maintainable, and scalable test automation.  
 
 ---
- 
+  
 ## 🚀 Features  
 ✅ End-to-End Amazon Search UI Automation  
 ✅ Behavior-Driven Development (BDD) with **Cucumber**  
